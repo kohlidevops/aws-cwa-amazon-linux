@@ -2,7 +2,7 @@
 
 ## Create IAM ROle
 
-Navigate to IAM Role - Create a new Role - Attach this Policy "CloudWatchAgentServerPolicy" - name it as - EASAASCloudWatchAgentServerRole. 
+Navigate to IAM Role - Create a new Role - Attach this Policy "CloudWatchAgentServerPolicy" - name it as - EC2CloudWatchAgentServerRole. 
 
 ## Launch Amazon Linux2023 
 
